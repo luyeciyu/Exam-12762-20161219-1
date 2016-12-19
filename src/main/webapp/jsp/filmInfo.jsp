@@ -100,7 +100,7 @@
 					<table style="width: 100%">
 		         		<tr height="40px">
 						<td align="right">标题:</td>
-		         		<td align="left"><input id="add_film_title" type="text" name="add_film_title" maxlength="10" size="20" class="inputCss" />
+		         		<td align="left"><input id="add_film_title" type="text" name="add_film_title"  size="20"  />
 									<span style="color: red">*</span>
 							</td>
 						<td align="right">语言:</td>
@@ -156,7 +156,7 @@
 					<table style="width: 100%">
 		         		<tr height="40px">
 						<td align="right">标题:</td>
-		         		<td align="left"><input id="mod_film_title" type="text" name="mod_film_title" maxlength="10" size="20" class="inputCss" />
+		         		<td align="left"><input id="mod_film_title" type="text" name="mod_film_title"  size="20"  />
 									<span style="color: red">*</span>
 							</td>
 						<td align="right">语言:</td>
