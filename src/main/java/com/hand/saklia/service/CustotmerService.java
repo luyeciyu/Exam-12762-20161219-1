@@ -1,4 +1,4 @@
-package com.hand.asklia.service;
+package com.hand.saklia.service;
 
 import com.hand.saklia.dao.CustomerDao;
 

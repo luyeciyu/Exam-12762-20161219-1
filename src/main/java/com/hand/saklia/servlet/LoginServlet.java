@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.hand.asklia.service.CustotmerService;
 import com.hand.saklia.dao.CustomerDao;
+import com.hand.saklia.service.CustotmerService;
 
 public class LoginServlet extends HttpServlet{
 	
